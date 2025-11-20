@@ -1,0 +1,4 @@
+ inurl:"product.php?id=" 
+ inurl:"view_product.php?id=" 
+ inurl:"item.php?id=" 
+ inurl:"fetch_item.php?id="
